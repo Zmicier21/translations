@@ -55,889 +55,447 @@
     <string name="buildinginfo_res0">Жыллё &#x20AE;</string>
     <string name="buildinginfo_res1">Жыллё &#x20AE;&#x20AE;</string>
     <string name="buildinginfo_res2">Жыллё &#x20AE;&#x20AE;&#x20AE;</string>
-
     <string name="buildinginfo_untouchable">Не зносіцца</string>
-
     <string name="buildinginfo_upgrade">Паляпшэнне(і)</string>
-
     <string name="buildinginfo_upgraded">Ужо палепшана</string>
-
     <string name="buildinginfo_upgradenotavail">Не абрана</string>
-
     <string name="buildinginfo_upgrades">%1$,d/%2$,d Паляпшэнне(і)</string>
-
     <string name="buildinginfo_waterusage">Скарыстана: %1$.1f%%</string>
-
     <string name="buildinginfo_waterwaste">Забруджана вады: %1$.1f%%</string>
-
     <string name="buildinginfo_worker">Працоўныя: %1$,d/%2$,d</string>
-
     <string name="busstopinfo_title">Аўтобусны прыпынак</string>
-
     <string name="busstopinfo_usage">"Чаканне: %2$,d/%3$,d
-
         Скарыстана: %1$.1f%%"</string>
-
     <string name="ca_bodydisposal_text">Пахаванняў: %1$,d/%2$,d</string>
-
     <string name="ca_education_high_text">Сярэдняя адукацыя: %1$,d/%2$,d вучняў</string>
-
     <string name="ca_education_low_text">Пачатковая адукацыя: %1$,d/%2$,d вучняў</string>
-
     <string name="ca_health_text">Ахова здароўя: %1$,d/%2$,d пацыентаў</string>
-
     <string name="ca_wastedisposal_text">Утылізацыя смецця: %1$,d/%2$,d</string>
-
     <string name="ci_budget_income">Прыбытак (за месяц)</string>
-
     <string name="ci_budget_overall">Агулам</string>
-
     <string name="ci_budget_overallincome">Увесь прыбытак</string>
-
     <string name="ci_budget_overallspending">Усе выдаткі</string>
-
     <string name="ci_budget_spending">Выдаткі (за месяц)</string>
-
     <string name="ci_budget_taxes">Падаткі</string>
-
     <string name="ci_budget_title">Фінансы</string>
-
     <string name="ci_budget_title_nomoney">Фінансы (тэарэтычна)</string>
-
     <string name="ci_education_high">Сярэдняя адукацыя</string>
-
     <string name="ci_education_low">Пачатковая адукацыя</string>
-
     <string name="ci_education_needed">Патрабуецца: %1$,d</string>
-
     <string name="ci_education_provided">Вырабляецца: %1$,d</string>
-
     <string name="ci_education_reached">Дасягнута: %1$,d</string>
-
     <string name="ci_education_schools">Школы: %1$,d</string>
-
     <string name="ci_education_title">Адукацыя</string>
-
     <string name="ci_energy_all">Усё</string>
-
     <string name="ci_energy_consumed">Скарыстана: %1$,.0fкВг (%2$,d будынкі)</string>
-
     <string name="ci_energy_networks">%1$,d сетка(і)</string>
-
     <string name="ci_energy_produced">Выраблена: %1$,.0fкВг (%2$,d будынкаў)</string>
-
     <string name="ci_energy_ratio">Скарыстана: %1$.1f%%</string>
-
     <string name="ci_energy_single">Асобны</string>
-
     <string name="ci_energy_text">НЕ ЎЖЫВАЕЦЦА</string>
-
     <string name="ci_energy_title">Энергія</string>
-
     <string name="ci_general_authorname">Аўтар: %1$s</string>
-
     <string name="ci_general_cityname">Імя горада: %1$s</string>
-
     <string name="ci_general_population">Усяго жыхароў: %1$,d</string>
-
     <string name="ci_general_population0">Бедныя жыхары (&#x20AE;): %1$,d</string>
-
     <string name="ci_general_population1">Звычайныя жыхары (&#x20AE;&#x20AE;): %1$,d</string>
-
     <string name="ci_general_population2">Багатыя  жыхары (&#x20AE;&#x20AE;&#x20AE;): %1$,d</string>
-
     <string name="ci_general_seed">Код: %1$s</string>
-
     <string name="ci_general_text">НЕ ЎЖЫВАЕЦЦА</string>
-
     <string name="ci_health_buildings">Будынкаў: %1$,d</string>
-
     <string name="ci_health_needed">Патрабуецца: %1$,d</string>
-
     <string name="ci_health_provided">Выраблена: %1$,d</string>
-
     <string name="ci_health_reached">Дасягнута: %1$,d</string>
-
     <string name="ci_health_title">Здароўе</string>
-
     <string name="ci_info_title">Выгляд горада</string>
-
     <string name="ci_loan_donate">Папрасіць</string>
-
     <string name="ci_loan_donate_text">Калі ласка, пазычце грошай, вельмі патрэбна :(</string>
-
     <string name="ci_loan_estate">Баланс: %1$s</string>
-
     <string name="ci_loan_get">Пазычыць</string>
-
     <string name="ci_loan_loanlist">Актыўныя пазыкі (агулам %1$s в %2$,d/%3$,d пазыкаў):</string>
-
     <string name="ci_loan_paybackcost">Вярнуць грошы: %1$s</string>
-
     <string name="ci_loan_remaining_runtime">Пакінуты час: %2$,d месяц(аў), %1$,d дзень(дзён)</string>
-
     <string name="ci_loan_title">Пазыка</string>
-
     <string name="ci_not_available">Звесткі адсутнічаюць</string>
-
     <string name="ci_rank_title">Званні</string>
-
     <string name="ci_rating_title">Рэйтынг</string>
-
     <string name="ci_rci_com0">Ганд &#x20AE;</string>
-
     <string name="ci_rci_com1">Ганд &#x20AE;&#x20AE;</string>
-
     <string name="ci_rci_com2">Ганд &#x20AE;&#x20AE;&#x20AE;</string>
-
     <string name="ci_rci_ind0">Прам &#x20AE;</string>
-
     <string name="ci_rci_ind1">Прам &#x20AE;&#x20AE;</string>
-
     <string name="ci_rci_ind2">Прам &#x20AE;&#x20AE;&#x20AE;</string>
-
     <string name="ci_rci_res0">Жыл &#x20AE;</string>
-
     <string name="ci_rci_res1">Жыл &#x20AE;&#x20AE;</string>
-
     <string name="ci_rci_res2">Жыл &#x20AE;&#x20AE;&#x20AE;</string>
-
     <string name="ci_rci_title">Патрабаванні</string>
-
     <string name="ci_water_all">Усё</string>
-
     <string name="ci_water_consumed">Скарыстана: %1$,.0fЛ/г (%2$,d будынкаў)</string>
-
     <string name="ci_water_networks">%1$,d сетка(і)</string>
-
     <string name="ci_water_produced">Выраблена: %1$,.0fЛ/с (%2$,d будынкаў)</string>
-
     <string name="ci_water_ratio">Скарыстана: %1$.1f%%</string>
-
     <string name="ci_water_single">Адасобна</string>
-
     <string name="ci_water_text">НЕ ЎЖЫВАЕЦЦА</string>
-
     <string name="ci_water_title">Вада</string>
-
     <string name="ci_water_waste">Забруджана: %1$.1f%%</string>
-
     <string name="control_back">Назад</string>
-
     <string name="control_cancel">Адмена</string>
-
     <string name="control_continue">Працягнуць</string>
-
     <string name="control_ok">Добра</string>
-
     <string name="createcity_cityauthor">Аўтар:</string>
-
     <string name="createcity_cityname">Імя горада:</string>
-
     <string name="createcity_gamemode">Рэжым гульні:</string>
-
     <string name="createcity_mapsize">Памер:</string>
-
     <string name="createcity_seed">Код:</string>
-
     <string name="createcity_settings">Больш...</string>
-
     <string name="createcity_sizebig">Вялікі</string>
-
     <string name="createcity_sizebigbig">Буйны</string>
-
     <string name="createcity_sizebigbigbig">Гіганцкі</string>
-
     <string name="createcity_sizemiddle">Сярэдні</string>
-
     <string name="createcity_sizeother">Іншыя</string>
-
     <string name="createcity_sizesmall">Маленькі</string>
-
     <string name="createcity_start">Пачаць</string>
-
     <string name="createcity_title">Новы Горад</string>
-
     <string name="createcity_trees">З дрэвамі</string>
-
     <string name="dialog_closecity_cmddontsave">Не захоўваць</string>
-
     <string name="dialog_closecity_cmdsave">Захаваць</string>
-
     <string name="dialog_closecity_text">Захаваць прагрэс перад выхадам?</string>
-
     <string name="dialog_closecity_title">Пакінуць горад</string>
-
     <string name="dialog_copycity_cmdcancel">Адмена</string>
-
     <string name="dialog_copycity_cmdok">Капіяваць</string>
-
     <string name="dialog_copycity_text">Напішы назву копіі.</string>
-
     <string name="dialog_copycity_title">Капіяваць горад</string>
-
     <string name="dialog_hugesize_cmdno">Не</string>
-
     <string name="dialog_hugesize_cmdyes">Так</string>
-
     <string name="dialog_hugesize_text">Гэты памер з’яўляецца эксперыментальным і можа не працаваць на тваёй прыладзе. Табе сапраўды патрэбна буйная мапа?</string>
-
     <string name="dialog_hugesize_title">Буйная мапа</string>
-
     <string name="dialog_invalidcityname_cmdok">Добра</string>
-
     <string name="dialog_invalidcityname_text">Калі ласка, выкарыстайце іншую назву для горада. Не дазваляецца пакідаць пустэчу.</string>
-
     <string name="dialog_invalidcityname_title">Няслушнае імя</string>
-
     <string name="dialog_leave_cmdcancel">Адмена</string>
-
     <string name="dialog_leave_cmdleave">Выйсці</string>
-
     <string name="dialog_leave_text">Ты сапраўды хочаш выйсці з TheoTown?</string>
-
     <string name="dialog_leave_title">Выйсці з TheoTown</string>
-
     <string name="dialog_nocities_cmdback">Адмена</string>
-
     <string name="dialog_nocities_cmdnewcity">Новы Горад</string>
-
     <string name="dialog_nocities_text">Немагчыма знайсці іншыя гарады.</string>
-
     <string name="dialog_nocities_title">Гарады не знойдзены</string>
-
     <string name="dialog_notification_cmdok">Добра</string>
-
     <string name="dialog_oldmap_cmdcancel">Адмена</string>
-
     <string name="dialog_oldmap_cmdproceed">У працэсе</string>
-
     <string name="dialog_oldmap_text">TheoTown распрацавана пазней, чым гэты горад. Ён можа працаваць няслушна. Калі ласка, уцямце нас (◕&#x203F;◕✿)</string>
-
     <string name="dialog_oldmap_title">Старажытны горад</string>
-
     <string name="dialog_rename_cmdcancel">Адмена</string>
-
     <string name="dialog_rename_cmdok">Перайменаваць</string>
-
     <string name="dialog_renameauthor_text">Калі ласка, увядзіце новага аўтара.</string>
-
     <string name="dialog_renameauthor_title">Перайменаваць Аўтара</string>
-
     <string name="dialog_renamebuilding_text">Увядзіце новае імя будынку.</string>
-
     <string name="dialog_renamebuilding_title">Перайменаваць будынак</string>
-
     <string name="dialog_renamecity_text">Увядзіце новае імя горада тут.</string>
-
     <string name="dialog_renamecity_title">Перайменаваць горад</string>
-
     <string name="dialog_screenshot_cmdok">Добра, дзякуй</string>
-
     <string name="dialog_screenshot_error">Не магчыма захаваць тэчку %1$s. Калі ласка, праверце дазволы прыкладання.</string>
-
     <string name="dialog_screenshot_show">Паказаць</string>
-
     <string name="dialog_screenshot_text">Скрыншот захаваны як %1$s.</string>
-
     <string name="dialog_screenshot_title">Скрыншот выкананы</string>
-
     <string name="dialog_tosandbox_cmdconvert">Пясочня</string>
-
     <string name="dialog_tosandbox_text">"Перарабіць горад у рэжым Пясочня?
-
         Гэта не вярнуць!"</string>
-
     <string name="dialog_tosandbox_title">Пясочня</string>
-
     <string name="disaster_earthquake_cmdtext">Узруш!</string>
-
-    <string name="disaster_earthquake_text">Пачні землятрус.</string>
-
+    <string name="disaster_earthquake_text">Пачні землятрус.</string
     <string name="disaster_earthquake_title">Землятрус</string>
-
     <string name="disaster_fire_cmdtext">Падпалі!</string>
-
     <string name="disaster_fire_text">Спалі ўсё!</string>
-
     <string name="disaster_fire_title">Агонь</string>
-
     <string name="disaster_flooding_cmdtext">Пачні дождж</string>
-
     <string name="disaster_flooding_text">Прыходзіць занадта вады.</string>
-
     <string name="disaster_flooding_title">Паводка</string>
-
     <string name="disaster_illness_cmdtext">Вірус</string>
-
-    <string name="disaster_illness_text">Людзі захварэюць...</string>
-
+    <string name="disaster_illness_text">Людзі захварэюць...</string
     <string name="disaster_illness_title">Эпідэмія</string>
-
     <string name="disaster_meteorite_cmdtext">Ляці, малыш</string>
-
     <string name="disaster_meteorite_text">Пачні метэарытны дождж з неба.</string>
-
     <string name="disaster_meteorite_title">Метэарыт</string>
-
     <string name="disaster_nuke_cmdtext">Паспрабуй гэта</string>
-
     <string name="disaster_nuke_text">Выглядае няўразна.</string>
-
     <string name="disaster_nuke_title">Ядзерны выбух</string>
-
     <string name="disaster_riot_cmdtext">Пачні бунт</string>
-
     <string name="disaster_riot_text">Пачні бунт, які можа быць спынены толькі спецназам.</string>
-
     <string name="disaster_riot_title">Бунт</string>
-
     <string name="disaster_tornado_cmdtext">Ствары вецер</string>
-
     <string name="disaster_tornado_text">Тарнада — вялікая небяспека для твайго горада.</string>
-
     <string name="disaster_tornado_title">Тарнада</string>
-
     <string name="draft_alert_fire00_text">Выкліч пажарных, калі нешта гарыць.</string>
-
     <string name="draft_alert_fire00_title">Выклікаць пажарных</string>
-
     <string name="draft_alert_medic00_text">Калі здарылася бяда, ты можаш выклікаць лекара.</string>
-
     <string name="draft_alert_medic00_title">Выклікаць лекара</string>
-
     <string name="draft_alert_police00_text">Выкліч паліцыю, каб спыніць злачынцаў.</string>
-
     <string name="draft_alert_police00_title">Выклікаць паліцыю</string>
-
     <string name="draft_alert_swat00_text">Калі ў цябе бунт, толькі спецназ зможа спыніць яго.</string>
-
     <string name="draft_alert_swat00_title">Выклікаць спецназ</string>
-
     <string name="draft_basketball00_text">Дзеці будуць гуляцца тут.</string>
-
     <string name="draft_basketball00_title">Баскетбол</string>
-
     <string name="draft_beach00_text">Прабаў цудоўны дзень на пляжы.</string>
-
     <string name="draft_beach00_title">Пляж</string>
-
     <string name="draft_beachnearwater00_text">Прабаў цудоўны дзень на пляжы.</string>
-
     <string name="draft_beachnearwater00_title">Пляж</string>
-
     <string name="draft_biergarten00_text">Лепшае месца, каб паслабіцца.</string>
-
     <string name="draft_biergarten00_title">Піўня</string>
-
     <string name="draft_bigpark00_text">Жыхары любяць вялікія паркі.</string>
-
     <string name="draft_bigpark00_title">Вялікі парк</string>
-
     <string name="draft_bigschool00_text">Месца, дзе моладзь будзе вучыцца пасля сканчэння сярэдняй школы.</string>
-
     <string name="draft_bigschool00_title">Вялікая школа</string>
-
     <string name="draft_buoy00_text">Дапамагае караблям знайсці шлях.</string>
-
     <string name="draft_buoy00_title">Буй</string>
-
     <string name="draft_busdepot00_text">Гараж для аўтобусаў.</string>
-
     <string name="draft_busdepot00_title">Аўтобуснае дэпо</string>
-
     <string name="draft_busstop00_text">Тут жыхары чакаюць аўтобус, каб даехаць да іншай частцы горада.</string>
-
     <string name="draft_busstop00_title">Аўтобусны прыпынак</string>
-
     <string name="draft_carcinema00_text">Невялікая забава для жыхароў TheoTown.</string>
-
     <string name="draft_carcinema00_title">Аўтамабільны кінатэатр</string>
-
     <string name="draft_cemetery00_title">Могілкі</string>
-
-    <string name="draft_church00_text">Кожнаму гораду патрэбна царква.</string>
-
+    <string name="draft_church00_text">Кожнаму гораду патрабуецца царква.</string>
     <string name="draft_church00_title">Царква</string>
-
     <string name="draft_church01_text">Звычайная царква.</string>
-
     <string name="draft_church01_title">Царква</string>
-
     <string name="draft_church02_text">Царква для маленькіх гарадоў.</string>
-
     <string name="draft_church02_title">Маленькая царква</string>
-
     <string name="draft_coalplant00_text">Вугальная электрастанцыя не толькі вырабляе зашмат энергіі, але і забруджвае наваколле.</string>
-
     <string name="draft_coalplant00_title">Вугальная ЭС</string>
-
     <string name="draft_crater1x1_text">Маленькі кратар метэарыта. Ты можаш знішчыць яго.</string>
-
     <string name="draft_crater1x1_title">Кратар метэарыта</string>
-
     <string name="draft_crater4x4_text">Вялікі кратар метэарыта. Ты можаш знішчыць яго.</string>
-
     <string name="draft_crater4x4_title">Вялікі кратар метэарыта</string>
-
     <string name="draft_crematory00_title">Крэматорый</string>
-
     <string name="draft_decocom00_text">.</string>
-
     <string name="draft_decocom00_title">Гандлёвая зона</string>
-
     <string name="draft_decoind00_text">.</string>
-
     <string name="draft_decoind00_title">Прамысловая зона</string>
-
     <string name="draft_decores00_text">.</string>
-
     <string name="draft_decores00_title">Жылая зона</string>
-
     <string name="draft_decoroad00_text">.</string>
-
     <string name="draft_decoroad00_title">Алеевыя дрэвы</string>
-
     <string name="draft_destroyedtile_text">Разбураная структура. Ты можаш знішчыць яе.</string>
-
     <string name="draft_destroyedtile_title">Разваліны</string>
-
     <string name="draft_filterplant00_text">Чысціць ваду.</string>
-
     <string name="draft_filterplant00_title">Станцыя-фільтр</string>
-
     <string name="draft_firedepartment00_text">Значна абараняе ад пажару.</string>
-
     <string name="draft_firedepartment00_title">Пажарная частка</string>
-
     <string name="draft_firedepartment01_text">Абараняе ад пажару.</string>
-
     <string name="draft_firedepartment01_title">Пажарнае дэпо.</string>
-
     <string name="draft_firedepartment02_heli00_text">Шрубалёты могуць прызямляцца і ўзлятаць з яе. Паляпшае пажарны ўчастак.</string>
-
     <string name="draft_firedepartment02_heli00_title">Пляцоўка</string>
-
     <string name="draft_firedepartment02_title">Пажарны ўчастак</string>
-
     <string name="draft_footballfield00_text">Футбольнае поле робіць жыхароў шчаслівымі.</string>
-
     <string name="draft_footballfield00_title">Футбольнае поле</string>
-
     <string name="draft_footballstadion00_fanshop_text">Сувеніры прадаюцца тут.</string>
-
     <string name="draft_footballstadion00_fanshop_title">Крама для фанатаў</string>
-
     <string name="draft_footballstadion00_lights_text">Трошкі святла для стадыёна.</string>
-
     <string name="draft_footballstadion00_lights_title">Лямпы</string>
-
     <string name="draft_footballstadion00_roof_text">З дахам можна гуляцца пад усялякім надвор’ем.</string>
-
     <string name="draft_footballstadion00_roof_title">Дах</string>
-
     <string name="draft_footballstadion00_text">Футбольны стадыён.</string>
-
     <string name="draft_footballstadion00_title">Стадыён</string>
-
     <string name="draft_gasplant00_text">Танней, чым іншыя электрастанцыі. Малы абсяг забруджання.</string>
-
     <string name="draft_gasplant00_title">Газавая ЭС</string>
-
     <string name="draft_gillender00_text">Будынак Гілендэр. Дзякуй за 250,000 спампоўванняў :D</string>
-
     <string name="draft_gillender00_title">Будынак Гілендэр</string>
-
     <string name="draft_karlsruhecastle00_text">Турыстам спадабаецца.</string>
-
     <string name="draft_karlsruhecastle00_title">Палац Карлсруэ</string>
-
     <string name="draft_landfill00_title">Сметнішча</string>
-
     <string name="draft_lighthouse00_text">Анідзе няма караблёў, але гэта маяк .... дзіўна.</string>
-
     <string name="draft_lighthouse00_title">Маяк</string>
-
     <string name="draft_management00_text">Для большай бяспекі.</string>
-
     <string name="draft_management00_title">Паліцыя</string>
-
     <string name="draft_marina00_text">Забава для багатых жыхароў.</string>
-
     <string name="draft_marina00_title">Гавань з яхтамі</string>
-
     <string name="draft_marker_densitymarker_text">Шчыльнасць засялення будынкаў.</string>
-
     <string name="draft_marker_densitymarker_title">Шчыльнасць</string>
-
     <string name="draft_marker_happinessmarker_text">Будаўнічы атрыбут.</string>
-
     <string name="draft_marker_happinessmarker_title">Шчасце</string>
-
     <string name="draft_marker_levelmarker_text">Узроўні будынкаў.</string>
-
     <string name="draft_marker_levelmarker_title">Узровень</string>
-
     <string name="draft_marker_powermarker_title">Энергія</string>
-
     <string name="draft_marker_protectedmarker_text">Паказаць будынкі, якія не могуць быць знесены.</string>
-
     <string name="draft_marker_protectedmarker_title">Нязносныя будынкі</string>
-
     <string name="draft_marker_ticketmarker_text">Паказаць білетную сістэму.</string>
-
     <string name="draft_marker_ticketmarker_title">Білеты</string>
-
     <string name="draft_marker_trafficmarker_text">Розрух.</string>
-
     <string name="draft_marker_trafficmarker_title">Розрух</string>
-
     <string name="draft_marker_watermarker_title">Вада</string>
-
     <string name="draft_mayorvilla00_text">Прыгожая віла мэра.</string>
-
     <string name="draft_mayorvilla00_title">Віла</string>
-
     <string name="draft_medic00_text">Тут жыхары могуць звярнуцца да лекара.</string>
-
     <string name="draft_medic00_title">Лекар</string>
-
     <string name="draft_medic01_text">Жыхарам бяспечней побач са шпіталем.</string>
-
     <string name="draft_medic01_title">Шпіталь</string>
-
     <string name="draft_middlepark00_clock_text">Жыхары будуць ведаць час.</string>
-
     <string name="draft_middlepark00_clock_title">Гадзіннік</string>
-
     <string name="draft_middlepark00_lights_text">Павільён, дзе могуць быць зарганізаваны вечарыны.</string>
-
     <string name="draft_middlepark00_lights_title">Павільён</string>
-
     <string name="draft_middlepark00_text">Жыхарам спадабаецца.</string>
-
     <string name="draft_middlepark00_title">Сярэдні парк</string>
-
     <string name="draft_mltry_baracks00_title">Ваярня</string>
-
     <string name="draft_mltry_depot00_title">Дэпо</string>
-
     <string name="draft_mltry_hq00_title">Штаб</string>
-
     <string name="draft_mltry_road00_title">Вайсковая дарога</string>
-
     <string name="draft_mltry_rocketlauncher00_title">Ракетная ўстаноўка</string>
-
     <string name="draft_mltry_tankbase00_title">Танкавая база</string>
-
     <string name="draft_mosque00_text">Звычайная мячэць.</string>
-
     <string name="draft_mosque00_title">Мячэць</string>
-
     <string name="draft_mosque01_text">Мячэць для маленькіх гарадоў.</string>
-
     <string name="draft_mosque01_title">Маленькая мячэць</string>
-
     <string name="draft_museum00_text">Месца, дзе састарэлыя людзі вывучаюць гісторыю.</string>
-
     <string name="draft_museum00_title">Музей</string>
-
     <string name="draft_nuclearplant00_text">Магутнейшая, чым вугальная электрастанцыя. Вельмі дарагая і патрабуе ШМАТ вады для астуджэння. Можа выбухнуць без вады.</string>
-
     <string name="draft_nuclearplant00_title">АЭС</string>
-
     <string name="draft_park00_text">Жыхарам спадабаецца.</string>
-
     <string name="draft_park00_title">Маленькі кветкавы парк</string>
-
     <string name="draft_park01_text">Жыхарам спадабаецца.</string>
-
     <string name="draft_park01_title">Маленькі парк</string>
-
     <string name="draft_park02_text">Жыхарам спадабаецца.</string>
-
     <string name="draft_park02_title">Маленькі парк з траўнікам</string>
-
     <string name="draft_park03_text">Жыхарам спадабаецца.</string>
-
     <string name="draft_park03_title">Маленькі парк</string>
-
     <string name="draft_pipe00_text">Трубы могуць даставіць ваду ў твае будынкі.</string>
-
     <string name="draft_pipe00_title">Труба</string>
-
     <string name="draft_plaza00_text">Вясковая плошча для ратушы.</string>
-
     <string name="draft_plaza00_title">Вясковая плошча</string>
-
     <string name="draft_police00_text">Для большай бяспекі.</string>
-
     <string name="draft_police00_title">Паліцэйскі ўчастак</string>
-
     <string name="draft_police01_text">Для невялікай бяспекі.</string>
-
     <string name="draft_police01_title">Паліцэйскі ўчастак.</string>
-
     <string name="draft_police02_text">Гэты паліцэйскі ўчастак з’яўляецца лідарам у абароне правапарадку твайго горада.</string>
-
     <string name="draft_police02_title">Штаб спецназа</string>
-
     <string name="draft_pool00_text">Давай пойдзем у новы адкрыты басейн?</string>
-
     <string name="draft_pool00_title">Басейн</string>
-
     <string name="draft_pool00_waterslide_text">Водныя горкі і лежакі.</string>
-
-    <string name="draft_pool00_waterslide_title">Водные горки</string>
-
+    <string name="draft_pool00_waterslide_title">Водныя горкі</string>
     <string name="draft_radio00_faith_text">"Адпраўляе размовы на тэму веры і нашага быцця на зямлі. Павялічвае моц рэлігіі.
-
         Толькі адна праграма дазволена за раз. Старыя праграмы будуць выдалены."</string>
-
     <string name="draft_radio00_faith_title">Размова пра веру</string>
-
     <string name="draft_radio00_fun_text">"Адпраўляе галоўным чынам музыку і лёгкую забаўляльную праграму. Слухачы адчуваюць сябе лепш. Узмацняе паркі.
-
         Толькі адна праграма дазволена за раз. Старыя праграмы будуць выдалены."</string>
-
     <string name="draft_radio00_fun_title">Вясёлае радыё</string>
-
     <string name="draft_radio00_news_text">"Адпраўляе самыя свежыя навіны горада. Паляпшае веды.
-
         Толькі адна праграма дазволена за раз. Старыя праграмы будуць выдалены."</string>
-
     <string name="draft_radio00_news_title">Навіны 104,0</string>
-
     <string name="draft_radio00_sport_text">"Адпраўляе спартовыя рэпартажы і захапляльныя жывыя трансляцыі спартовых падзеяў. Узмацняе спорт.
-
         Толькі адна праграма дазволена за раз. Старыя праграмы будуць выдалены."</string>
-
     <string name="draft_radio00_sport_title">Спорт FM</string>
-
     <string name="draft_radio00_text">Тваім жыхарам спадабаюцца радыёпраграмы.</string>
-
     <string name="draft_radio00_title">Радыёстанцыя</string>
-
     <string name="draft_rail00_text">Крышку калеяў для тваёй чыгункі.</string>
-
     <string name="draft_rail00_title">Калеі з рэйкаў</string>
-
     <string name="draft_railwaystation00_text">Станцыя для цягнікоў.</string>
-
     <string name="draft_railwaystation00_title">Чыгуначная станцыя</string>
-
     <string name="draft_rnk_city_big_title">Вялікі горад</string>
-
     <string name="draft_rnk_city_large_title">Буйны горад</string>
-
     <string name="draft_rnk_city_medium_title">Город</string>
-
     <string name="draft_rnk_city_small_title">Маленькі горад</string>
-
     <string name="draft_rnk_conurbation_title">Канурбацыя</string>
-
     <string name="draft_rnk_hamlet_title">Мястэчка</string>
-
     <string name="draft_rnk_isolateddwelling_title">Ізаляванае месца</string>
-
     <string name="draft_rnk_megalopolis_title">Мегаполіс</string>
-
     <string name="draft_rnk_metropolis_title">Метраполіс</string>
-
     <string name="draft_rnk_town_big_title">Вялікі прыгарад</string>
-
     <string name="draft_rnk_town_large_title">Буйны прыгарад</string>
-
     <string name="draft_rnk_town_medium_title">Прыгарад</string>
-
     <string name="draft_rnk_town_small_title">Маленькі прыгарад</string>
-
     <string name="draft_rnk_village_big_title">Вялікая вёска</string>
-
     <string name="draft_rnk_village_medium_title">Вёска</string>
-
     <string name="draft_rnk_village_small_title">Маленькая вёска</string>
-
     <string name="draft_road00_text">Звычайная сельская дарога.</string>
-
     <string name="draft_road00_title">Сцежка</string>
-
     <string name="draft_road01_text">Аўтамабілі ездзяць хучэй па ёй.</string>
-
     <string name="draft_road01_title">Дарога</string>
-
     <string name="draft_road02_text">Хуткае злучэнне дзвюх лакацыяў.</string>
-
     <string name="draft_road02_title">Хуткасная дарога</string>
-
     <string name="draft_road03_text">Аўтамабілі могуць ехаць толькі ў адным кірунку. Выкарыстоўвай для кантролю розруху.</string>
-
     <string name="draft_road03_title">Аднабаковая дарога</string>
-
     <string name="draft_road04_text">Прыгожая дарога з дрэвамі.</string>
-
     <string name="draft_road04_title">Алея</string>
-
     <string name="draft_road05_text">Цудоўная дарога для злучэння далёкіх зонаў.</string>
-
     <string name="draft_road05_title">Шаша</string>
-
     <string name="draft_school00_text">Месца, дзе вучацца дзеці.</string>
-
     <string name="draft_school00_title">Пачатковая школа</string>
-
     <string name="draft_school01_text">Месца, дзе навучаюцца студэнты.</string>
-
     <string name="draft_school01_title">Сярэдняя школа</string>
-
     <string name="draft_school02_text">Маленькая школа для невялікіх гарадоў.</string>
-
     <string name="draft_school02_title">Маленькая школа</string>
-
     <string name="draft_sewerpipe00_text">Злівае брудную ваду ў зямлю. Вельмі забруджвае наваколле.</string>
-
     <string name="draft_sewerpipe00_title">Зліўная труба</string>
-
     <string name="draft_solarpanels00_text">Сонечныя панэлі не забруджваюць наваколле.</string>
-
     <string name="draft_solarpanels00_title">Сонечная панэль</string>
-
     <string name="draft_statue00_text">Статуя мэра.</string>
-
     <string name="draft_statue00_title">Статуя</string>
-
     <string name="draft_tennis00_text">Дзеці могуць пагуляць у тэніс тут.</string>
-
     <string name="draft_tennis00_title">Тэнісны корт</string>
-
     <string name="draft_terrainland_text">Змясцуй зямлю на мапе.</string>
-
     <string name="draft_terrainland_title">Зямля</string>
-
     <string name="draft_terrainwater_text">Змясцуй ваду на мапе.</string>
-
     <string name="draft_terrainwater_title">Вада</string>
-
     <string name="draft_townhall00_text">Вялікім гарадам патрабуецца гарадская ратуша. Жыхарам спадабаецца.</string>
-
     <string name="draft_townhall00_title">Гарадская ратуша</string>
-
     <string name="draft_townhall01_text">Ратуша можа быць пабудавана ў тваім горадзе.</string>
-
     <string name="draft_townhall01_title">Ратуша</string>
-
     <string name="draft_tree00_text">Змясцуй дрэвы на мапе.</string>
-
     <string name="draft_tree00_title">Дрэвы</string>
-
     <string name="draft_treepark00_text">Маленькі парк з дрэвамі. Жыхарам спадабаецца.</string>
-
     <string name="draft_treepark00_title">Парк з дрэвамі</string>
-
     <string name="draft_treepark01_text">Маленькі парк з дрэвамі. Жыхарам спадабаецца.</string>
-
     <string name="draft_treepark01_title">Парк з дрэвамі</string>
-
     <string name="draft_wasteincinerator00_title">Спальвальнік смецця</string>
-
     <string name="draft_waterfountain00_text">Жыхарам спадабаецца.</string>
-
     <string name="draft_waterfountain00_title">Фантан</string>
-
     <string name="draft_waterfountain01_text">Жыхарам спадабаецца.</string>
-
     <string name="draft_waterfountain01_title">Фантан</string>
-
     <string name="draft_waterpump00_text">Вырабляе ваду для тваіх будынкаў.</string>
-
     <string name="draft_waterpump00_title">Водапампоўня</string>
-
     <string name="draft_waterpump01_text">Павінна быць пабудавана каля вады.</string>
-
     <string name="draft_waterpump01_title">Маленькая водапампоўня</string>
-
     <string name="draft_watertower00_text">Вырабляе няшмат вады для тваіх будынкаў.</string>
-
     <string name="draft_watertower00_title">Воданапорная вежа</string>
-
     <string name="draft_windturbine00_text">Ветраная электрастанцыя вырабляе шум, але не забруджвае наваколле.</string>
-
     <string name="draft_windturbine00_title">Ветраная ЭС</string>
-
     <string name="draft_wire00_text">Выкарыстоўвай правады, каб злучыць горад с з тваімі электрастанцыямі.</string>
-
     <string name="draft_wire00_title">Правады</string>
-
     <string name="draft_zonecommercial_lvl2_text">Гандлёвая зона з падвышанаю шчыльнасцю.</string>
-
     <string name="draft_zonecommercial_lvl2_title">Прасунуты гандаль</string>
-
     <string name="draft_zonecommercial_text">Гандлёвыя будынкі могуць быць пабудаваны ў гэтай зоне.</string>
-
     <string name="draft_zonecommercial_title">Гандаль</string>
-
     <string name="draft_zonefarm_text">Танная зона для фермерскіх будынкаў. Мінімальны памер 4х4.</string>
-
     <string name="draft_zonefarm_title">Ферма</string>
-
     <string name="draft_zoneharbor_text">Прамысловая зона для узбярэжжа твайго горада.</string>
-
     <string name="draft_zoneharbor_title">Прыстань</string>
-
     <string name="draft_zoneindustrial_lvl2_text">Прамысловая зона з падвышанаю шчыльнасцю.</string>
-
     <string name="draft_zoneindustrial_lvl2_title">Прасунутая прамысловасць</string>
-
     <string name="draft_zoneindustrial_text">Прамысловыя будынкі могуць быць пабудаваны ў гэтай зоне.</string>
-
     <string name="draft_zoneindustrial_title">Прамысловасць</string>
-
     <string name="draft_zonemilitary_title">Вайсковая зона</string>
-
     <string name="draft_zoneresidential_lvl2_text">Жылая зона з падвышанаю шчыльнасцю.</string>
-
     <string name="draft_zoneresidential_lvl2_title">Прасунутае жыллё</string>
-
     <string name="draft_zoneresidential_text">Жыхары будуць будаваць дамы ў гэтай зоне.</string>
-
     <string name="draft_zoneresidential_title">Жыллё</string>
-
     <string name="draftselector_building_habitants">Жыхароў: %1$,d</string>
-
     <string name="draftselector_building_level">Узровень: %1$,d</string>
-
     <string name="draftselector_building_size">Памер: %1$,dx%2$,d</string>
-
     <string name="draftselector_building_workers">Працоўных: %1$,d</string>
-
     <string name="draftselector_building_zone">Зона: %1$s</string>
-
     <string name="draftselector_cmdShow">Паказаць</string>
-
     <string name="draftselector_cmdalert">Уперад!</string>
-
     <string name="draftselector_cmdbuild">Будаваць</string>
-
     <string name="draftselector_cmdremove">Прыбраць</string>
-
     <string name="draftselector_cmdview">Паказаць</string>
-
     <string name="draftselector_commercial">Гандаль</string>
-
     <string name="draftselector_id">Нумар: %1$s</string>
-
     <string name="draftselector_industrial">Прамысловасць</string>
-
     <string name="draftselector_monthlyprice">Штомесячны заробак: %s</string>
-
     <string name="draftselector_onlyn">Можа быць пабудавана %1$,d разы(оў)</string>
-
     <string name="draftselector_onlyone">Можа быць пабудавана толькі адзін раз</string>
-
     <string name="draftselector_power">Электрычнасць: %1$,dкВг</string>
-
     <string name="draftselector_price">Цана: %s</string>
-
     <string name="draftselector_residential">Жыллё</string>
 
     <string name="draftselector_titlealert">Службы</string>
